@@ -4,7 +4,7 @@ public class Student
 {
 	  private String name;
 	   private int rollno;
-	   String name1=null;
+	   String name1="jjj";
 	 public String getName() {
 		return name;
 	}
